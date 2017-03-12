@@ -1,4 +1,4 @@
-
+"""
 thing here but dictionaries for generating LinearSegmentedColormaps,
 and a dictionary of these dictionaries.
 """
